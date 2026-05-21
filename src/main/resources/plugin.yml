@@ -1,0 +1,35 @@
+name: EliteCore
+version: ${version}
+main: com.elitecore.bootstrap.EliteCorePlugin
+api-version: '1.21'
+authors: [ EliteNetwork ]
+description: Modular premium core for SMP, CityBuild, PvP and network servers.
+softdepend: [ PlaceholderAPI, LuckPerms ]
+commands:
+  elite:
+    permission: elite.admin
+  profile:
+    permission: elite.profile
+  coins:
+    permission: elite.economy
+  pay:
+    permission: elite.economy
+  skills:
+    permission: elite.skills
+  clan:
+    permission: elite.clans
+  msg:
+    permission: elite.chat
+permissions:
+  elite.admin:
+    default: op
+  elite.reload:
+    default: op
+  elite.economy:
+    default: true
+  elite.skills:
+    default: true
+  elite.chat:
+    default: true
+  elite.cosmetics:
+    default: true
