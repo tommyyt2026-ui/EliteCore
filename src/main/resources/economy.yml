@@ -1,0 +1,8 @@
+economy:
+  enabled: true
+  daily-reward: 500
+  bank-enabled: true
+  pay-enabled: true
+  multipliers:
+    vote: 1.25
+    booster: 2.0
