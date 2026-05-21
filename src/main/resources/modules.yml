@@ -1,0 +1,10 @@
+modules:
+  profiles: true
+  economy: true
+  skills: true
+  clans: true
+  cosmetics: true
+  chat: true
+  scoreboard: true
+  gui: true
+  database: true
