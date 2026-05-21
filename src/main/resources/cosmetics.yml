@@ -1,0 +1,8 @@
+cosmetics:
+  enabled: true
+  particles: true
+  trails: true
+  hats: true
+  kill-effects: true
+  tags: true
+  join-messages: true
