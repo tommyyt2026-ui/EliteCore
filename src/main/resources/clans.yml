@@ -1,0 +1,5 @@
+clans:
+  enabled: true
+  max-members: 25
+  home-limit: 3
+  bank-enabled: true
