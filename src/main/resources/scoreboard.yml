@@ -1,0 +1,8 @@
+scoreboard:
+  enabled: true
+  title: "<gradient:#00D4FF:#0077FF>EliteCore</gradient>"
+  lines:
+    - "&7%player_name%"
+    - ""
+    - "&fCoins: &b%elite_coins%"
+    - "&fLevel: &a%elite_level%"
